@@ -1,6 +1,8 @@
 # Modern UI/UX GPT-3 Landing Page
 This is a GPT-3 Landing Page built with a Modern UI/UX using React JS. It encompasses all modern UX Practices, follows a stringent and well organised File Structure and uses React Functional components to recreate multiple components throughout the project. Also, Netlify has been used for free hosting.
 
+![GPT3 Gif](https://github.com/CBelloxxi/GPT3-Clone/blob/master/src/assets/gpt1.gif)
+
 <h2>Built with & Features:</h2>
 <li>React JS</li>
 <li>React Functional components and their reusability</li>
